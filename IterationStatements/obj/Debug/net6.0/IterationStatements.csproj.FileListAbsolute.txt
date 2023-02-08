@@ -1,0 +1,15 @@
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/luch/Desktop/Repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll
